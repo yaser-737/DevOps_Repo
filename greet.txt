@@ -1,3 +1,4 @@
 hi
 how are you
 this line has been changed in git terminal
+hello
