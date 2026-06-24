@@ -5,4 +5,4 @@ d=input("enter your password")
 logic:'''
 .............
 '''
-print(a,b)
+print(c,d)
